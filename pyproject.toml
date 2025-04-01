@@ -1,0 +1,7 @@
+[project]
+name = "machine-learning-exercise-classes"
+version = "0.1.0"
+description = "Using this for the exercises in machine learning to get to know my way around the ssh connection with my student git"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
